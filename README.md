@@ -7,3 +7,4 @@ Phys 139 Final Project
 
 ### Extreme Parameters Models
 1. best_rogue_wave_model_high_10layers : number of LSTM layers = 10, number of units = 10, batch size = 16
+2. best_rogue_wave_model_unit4_layer4_2 : number of LSTM layers = 4, number of units = 4, batch size = 16
